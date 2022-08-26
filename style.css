@@ -63,7 +63,9 @@ li {
 
  li:hover {
     transform: translateY(-20px);
-
+}
+#pusa:hover {
+    color: rgb(247, 79, 107);
 }
 
 .names {
