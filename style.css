@@ -57,10 +57,20 @@ ul {
     font-size: 4vw;
     margin-top: 1%;
 }
+li {
+    transition: .6s;
+}
+
+ li:hover {
+    transform: translateY(-20px);
+
+}
 
 .names {
     text-align: center;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border-radius: 50px;
+   
 }
 
 .footlong {
